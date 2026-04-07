@@ -44,10 +44,10 @@ YANDEX_MUSIC_TOKEN=ваш_токен_Яндекс_Музыки
 4. Скопируйте значение в `.env` как `YANDEX_MUSIC_TOKEN`
 
 **Способ 2 — через расширение Chrome:**
-1. Установите [Get cookie TXT](https://chrome.google.com/webstore/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)
+1. Установите [yandex-music-token](https://github.com/MarshalX/yandex-music-token)
 2. Войдите на [music.yandex.ru](https://music.yandex.ru)
-3. Нажмите иконку расширения и экспортируйте cookies
-4. Найдите строку `yandexmusic_token` и скопируйте значение в `.env`
+3. Откройте расширение и скопируйте токен
+4. Вставьте значение в `.env` как `YANDEX_MUSIC_TOKEN`
 
 Подробнее: [документация yandex-music](https://yandex-music.readthedocs.io/en/main/token.html)
 
